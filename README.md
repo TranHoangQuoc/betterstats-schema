@@ -1,0 +1,1 @@
+# betterstats-schema
